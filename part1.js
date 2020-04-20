@@ -67,7 +67,6 @@ function draw() {
     else
       song.setVolume(0.0);
   }
-
 }
 
 //Function to change the shape's color
