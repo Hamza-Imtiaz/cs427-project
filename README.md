@@ -23,6 +23,8 @@ There are two options to run the HTMLs files:
     * ![Logo](/images/Chrome.png)
   * Once you have the Chrome application installed then just select the folder that you have already downloded from github and click on the "Web Server URL" after that you are in to the project directory. After that just click on 'Part1.html' or 'Part2.html' all up to you and it should work.
   
+    * You can also go to the images folder and check out more pictures if you need more help with accessing the HTML files in Chrome.
+  
 ## Thrid party libraries use
 * As i said earlier on top that i did this full project on P5 web editor, so i had to use their [P5 libraries](https://p5js.org/libraries/) in order to finish my project.
 * [Refrences](https://p5js.org/)
